@@ -16,6 +16,6 @@ public class NYTtoW2VTxt {
 			NYTCorpusDocument timesDocument = parser.parseNYTCorpusDocumentFromFile(file, false);
 			System.out.println (timesDocument.getBody());
 			Span span = new Span(0, timesDocument.getWordCount()-1);
-			SentenceSplitter.split(timesDocument, span);;
+			SentenceSplitter.split(timesDocument, span);
 		}
 }
