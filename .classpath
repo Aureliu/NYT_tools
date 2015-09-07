@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="build/timestools.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/GitHub/NYT_tools/lib/commons-logging.jar"/>
+	<classpathentry kind="lib" path="D:/GitHub/NYT_tools/lib/fanseparser-0.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/GitHub/NYT_tools/lib/joda-time-1.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/GitHub/NYT_tools/lib/junit-4.0.jar"/>
+	<classpathentry kind="lib" path="D:/GitHub/NYT_tools/lib/jwnl12.jar"/>
+	<classpathentry kind="lib" path="D:/GitHub/NYT_tools/lib/jxl-2.6.12.jar"/>
+	<classpathentry kind="lib" path="D:/GitHub/NYT_tools/lib/jyaml-1.0.jar"/>
+	<classpathentry kind="lib" path="D:/GitHub/NYT_tools/lib/mallet.jar"/>
+	<classpathentry kind="lib" path="D:/GitHub/NYT_tools/lib/mallet-crf.jar"/>
+	<classpathentry kind="lib" path="D:/GitHub/NYT_tools/lib/opennlp-yh-maxent-3.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/GitHub/NYT_tools/lib/parser-stub.jar"/>
+	<classpathentry kind="lib" path="D:/GitHub/NYT_tools/lib/pnuts.jar"/>
+	<classpathentry kind="lib" path="D:/GitHub/NYT_tools/lib/slf4j-api-1.7.5.jar"/>
+	<classpathentry kind="lib" path="D:/GitHub/NYT_tools/lib/slf4j-simple-1.7.5.jar"/>
+	<classpathentry kind="lib" path="D:/GitHub/NYT_tools/lib/trove.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
